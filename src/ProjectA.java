@@ -9,7 +9,7 @@ public class ProjectA {
 		boolean quit = false;
 		
 		double convertFactor = 0.0;
-		String convertedUnits = "";
+		String convertedUnits = "";   // 
 		
 		
 		loop: while(!quit){
